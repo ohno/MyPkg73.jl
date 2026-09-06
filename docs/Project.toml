@@ -1,0 +1,6 @@
+[deps]
+MyPkg73 = "656108b7-87e3-4497-8805-418b5be5af89"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
+[compat]
+Documenter = "1"
